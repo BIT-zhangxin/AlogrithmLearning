@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1. 约瑟夫问题.cpp" />
+    <ClCompile Include="10.家谱.cpp" />
+    <ClCompile Include="9.任务分配问题.cpp" />
+    <ClCompile Include="1.套圈.cpp" />
+    <ClCompile Include="10. 计算WPL.cpp" />
+    <ClCompile Include="10.消息加密.cpp" />
+    <ClCompile Include="11. 前缀码判定.cpp" />
+    <ClCompile Include="11.千字文.cpp" />
+    <ClCompile Include="12. 图的广度优先遍历.cpp" />
+    <ClCompile Include="12.正则表达式.cpp" />
+    <ClCompile Include="13. 连连看游戏辅助.cpp" />
+    <ClCompile Include="13.压缩文本.cpp" />
+    <ClCompile Include="14. 计算工程完成的关键路径.cpp" />
+    <ClCompile Include="14.逻辑行计数.cpp" />
+    <ClCompile Include="15. 无向图的各连通分支.cpp" />
+    <ClCompile Include="15.数字游戏.cpp" />
+    <ClCompile Include="16. 求两点之间的最短路径.cpp" />
+    <ClCompile Include="16.高速收费站.cpp" />
+    <ClCompile Include="17. 排序二叉树.cpp" />
+    <ClCompile Include="17.良乡食堂.cpp" />
+    <ClCompile Include="18. 平衡二叉树.cpp" />
+    <ClCompile Include="18.吃货.cpp" />
+    <ClCompile Include="19.编程排名.cpp" />
+    <ClCompile Include="2. 一元多项式相乘.cpp" />
+    <ClCompile Include="20. 堆排序.cpp" />
+    <ClCompile Include="20.电话号码.cpp" />
+    <ClCompile Include="21.吃货续.cpp" />
+    <ClCompile Include="22.序列划分.cpp" />
+    <ClCompile Include="23.单词接龙.cpp" />
+    <ClCompile Include="24.走迷宫.cpp" />
+    <ClCompile Include="25.赶飞机.cpp" />
+    <ClCompile Include="26.贪婪的你.cpp" />
+    <ClCompile Include="27.吃披萨.cpp" />
+    <ClCompile Include="28.退治大赛.cpp" />
+    <ClCompile Include="29.邮件解密.cpp" />
+    <ClCompile Include="3. 括号匹配.cpp" />
+    <ClCompile Include="3.DP.cpp" />
+    <ClCompile Include="30.序列划分.cpp" />
+    <ClCompile Include="31.括号序列.cpp" />
+    <ClCompile Include="32.穿越矩阵.cpp" />
+    <ClCompile Include="33.Treats for the Cows.cpp" />
+    <ClCompile Include="34.Little Bishops.cpp" />
+    <ClCompile Include="35.双塔问题.cpp" />
+    <ClCompile Include="36.北理工美女.cpp" />
+    <ClCompile Include="4. 从中缀向后缀转换表达式.cpp" />
+    <ClCompile Include="4.整除15问题.cpp" />
+    <ClCompile Include="5. 游戏2048.cpp" />
+    <ClCompile Include="5.快算24.cpp" />
+    <ClCompile Include="6. 矩阵的快速转置算法.cpp" />
+    <ClCompile Include="6.符号三角形问题.cpp" />
+    <ClCompile Include="7. 稀疏矩阵的乘法运算.cpp" />
+    <ClCompile Include="7.木板墙.cpp" />
+    <ClCompile Include="8. 广义表的建立与基本操作.cpp" />
+    <ClCompile Include="8.餐厅.cpp" />
+    <ClCompile Include="9. 树的建立与基本操作.cpp" />
+    <ClCompile Include="9.同构词分组.cpp" />
+    <ClCompile Include="ARKNIGHTS.cpp" />
+    <ClCompile Include="test13 bfs.cpp" />
+    <ClCompile Include="test10 类.cpp" />
+    <ClCompile Include="test11 double测试.cpp" />
+    <ClCompile Include="test12 C.cpp" />
+    <ClCompile Include="test14 读取速度.cpp" />
+    <ClCompile Include="test15 匿名函数.cpp" />
+    <ClCompile Include="test16 输出控制.cpp" />
+    <ClCompile Include="test7 链表.cpp" />
+    <ClCompile Include="test1 qsort.cpp" />
+    <ClCompile Include="4.Stacks of Flapjacks.cpp" />
+    <ClCompile Include="test3 class.cpp" />
+    <ClCompile Include="test2 new bug.cpp" />
+    <ClCompile Include="3.Where%27s Waldorf.cpp" />
+    <ClCompile Include="1.不高兴的津津.cpp" />
+    <ClCompile Include="6.良乡足球场.cpp" />
+    <ClCompile Include="test4 字典序.cpp" />
+    <ClCompile Include="5.定情信物.cpp" />
+    <ClCompile Include="2.猴子分桃.cpp" />
+    <ClCompile Include="test5 Unicode字符.cpp" />
+    <ClCompile Include="test6 time.cpp" />
+    <ClCompile Include="test8 吃内存.cpp" />
+    <ClCompile Include="test9 开数组.cpp" />
+    <ClCompile Include="2.DP或贪心.cpp" />
+    <ClCompile Include="DLX.cpp" />
+    <ClCompile Include="实验一 实现单处理机下的进程调度程序.cpp" />
+    <ClCompile Include="实验三 实现请求页式存储管理模拟程序.cpp" />
+    <ClCompile Include="实验二 实现动态分区分配模拟程序.cpp" />
+    <ClCompile Include="推理.cpp" />
+    <ClCompile Include="GLIST.h" />
+    <ClCompile Include="19. 快速排序.cpp" />
+    <ClCompile Include="源.cpp" />
+    <ClCompile Include="源1.cpp" />
+    <ClCompile Include="源2.cpp" />
+    <ClCompile Include="源3.cpp" />
+    <ClCompile Include="源4.cpp" />
+    <ClCompile Include="源5.cpp" />
+    <ClCompile Include="源6.cpp" />
+    <ClCompile Include="实验一 样例.cpp" />
+    <ClCompile Include="田忌赛马.cpp" />
+    <ClCompile Include="8.计算器PLUS.cpp" />
+    <ClCompile Include="7.郭老师家的果园.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LINKLIST.h" />
+    <ClInclude Include="QSORT.h" />
+    <ClInclude Include="RANDOM.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{E953F9CA-7BB1-4B78-B7E8-85CC1D5C87D9}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>做题</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>程序</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <StackReserveSize>50000000</StackReserveSize>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <StackReserveSize>50000000</StackReserveSize>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
